@@ -1,0 +1,19 @@
+#html24_main_1_12731 - FULL-FILE
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106801_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+2,ტესტი 2
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106802_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+333_2310_1,Error in Translation
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106803_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+333_one_1,ერთი
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106804_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+333_2810_1,Error in Translation
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106805_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+333_and_2,და
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106806_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+333_or_3,ან
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106807_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+333_three_1,სამი
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106808_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+333_four_2,ოთხი
+#LRM_INCONTEXT https://dockertest1.lingoport.io/incontext-server/lookup?key,106809_9887&token=n5XqnKmk9LL01f172zL5u08C91Cp9hmW
+333_five_3,ხუთი
